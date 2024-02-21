@@ -54,6 +54,7 @@
     height:90%;
     max-height:800px;
     width:auto;
+    justify-content: center;
   }
 
   .image {
