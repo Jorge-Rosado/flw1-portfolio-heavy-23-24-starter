@@ -42,6 +42,13 @@ h1 {
   word-break: break-all;
 }
 
+.hrefImage {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
 .everything {
   height: 100%;
   background-color: #f1f5fe;
